@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "421392570603",
+    "firebase_url": "https://login-4ae54.firebaseio.com",
+    "project_id": "login-4ae54",
+    "storage_bucket": "login-4ae54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421392570603:android:84946cb929c5064b",
+        "android_client_info": {
+          "package_name": "com.example.anandsurya.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421392570603-d21nir594lusa4r6iijedeoch6m46mk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqOROL9kIS0iahmvkxzR30HNjjqUnxWy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
